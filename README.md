@@ -10,4 +10,3 @@
 - 🏡 I work from home
 
 ![top langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=prashantvc&hide=jupyter%20notebook,html)
-![repo stats](https://github-readme-stats.vercel.app/api?username=prashantvc&show_icons=true&line_height=27)
