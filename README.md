@@ -6,7 +6,5 @@
 - 👨🏻‍💻 I’m currently working on Visual Studio Marketplace, formally Xamarin
 - 🌱 I’m currently learning Spanish
 - 💬 Ask me about how am I doing
-- 📫 How to reach me: [@prshntvc](https://twitter.com/prshntvc) on twitter
+- 📫 How to reach me: [@prshntvc](https://twitter.com/prshntvc) on twitter, 💌 prchol@microsoft.com
 - 🏡 I work from home
-
-![top langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=prashantvc&hide=jupyter%20notebook,html)
