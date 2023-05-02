@@ -3,7 +3,7 @@
 [![Linkedin: prashantvc](https://img.shields.io/badge/-prashantvc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashantvc)](https://www.linkedin.com/in/prashantvc/)
 [![GitHub prashantvc](https://img.shields.io/github/followers/prashantvc?label=follow&style=social)](https://github.com/prashantvc)
 
+- 👨‍💻 Open to work
 - 🌱 I’m currently learning Spanish
 - 💬 Ask me about how am I doing
-- 📫 How to reach me: [@prshntvc](https://twitter.com/prshntvc) on twitter, 💌 prchol@microsoft.com
-- 🏡 I work from home
+- 📫 How to reach me: [@prshntvc](https://twitter.com/prshntvc) on twitter
