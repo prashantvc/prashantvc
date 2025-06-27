@@ -6,4 +6,3 @@
 - 🌱 I’m currently learning Japanese
 - 💬 Ask me about how am I doing
 - 📫 How to reach me: [@prshntvc](https://twitter.com/prshntvc) on twitter
-- 🔥 Swipe right [here](https://tinder.com/@prashantvc)
